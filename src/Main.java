@@ -105,4 +105,6 @@ public class Main {
         person.setName("Ilya");
         person.setSurname("Lagutenko");
     }
-    }
+
+}
+
