@@ -104,6 +104,5 @@ public class Main {
     public static void changePersonValue(Person person) {
         person.setName("Ilya");
         person.setSurname("Lagutenko");
-
     }
     }
